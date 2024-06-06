@@ -1,0 +1,28 @@
+{
+    "education":[
+        {
+            "title": "September 2015 - August 2017",
+            "cardTitle": "MSc-IT, Computer Science",
+            "cardSubtitle":"Indus University, Ahmedabad",
+            "cardDetailedText": "CGPA - 8.2 First Class with Distinction",
+            "icon" : {
+                "src": "images/logo/logo.png"
+            }
+        },
+        {
+            "title": "September 2011 - January 2015",
+            "cardTitle": "BCA, Computer Science",
+            "cardSubtitle":"SMU, Ahmedabad",
+            "cardDetailedText": "CGPA - 7.1",
+            "icon" : {
+                "src": "images/logo/logo.png"
+            }
+        },
+        {
+            "title": "Apr 2010",
+            "cardTitle": "High School",
+            "cardSubtitle":"Shree Gyanjot M & U.P School (GHSEB), Dahod",
+            "cardDetailedText": "Marks - 52%"
+        }
+    ]
+}

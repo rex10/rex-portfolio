@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "www.linkedin.com/in/rex-christian-1482bb90"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/rex10"
+        },
+        {
+            "network" : "email",
+            "href": "rex.christian1@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/plants.png",
+            "title": "Plants",
+            "bodyText": "- Plants.com features a diverse inventory from indoor air purifiers to outdoor bloomers, catering to every type of plant enthusiast.\n - delivering freshness right to your doorstep.\n - **Gift Options and Care Guides** The site offers curated gift selections and comprehensive care instructions.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.plants.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Next",
+                "JavaScript",
+                "BootStrap",
+                "NodeJS"
+            ]
+        },
+        {
+            "image" : "images/projects/flowers.webp",
+            "title": "1800Flowers.com",
+            "bodyText": "- 1800Flowers.com offers a vast selection of flowers, plants, gourmet gifts, and personalized items, catering to various occasions and tastes.\n - **Nationwide Delivery** With nationwide delivery options, 1800Flowers.com ensures that your gifts can reach your loved ones wherever they are, providing convenient and reliable service.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.1800flowers.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Next",
+                "JavaScript",
+                "BootStrap",
+                "NodeJS"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Weather App",
+            "bodyText": "- **Technological Stack** Utilizing modern web development technologies like HTML, CSS, and JavaScript, along with libraries such as React.js.\n - The weather-app offers an interactive and dynamic user experience.\n - **API Integration** The app integrates with weather APIs (such as OpenWeatherMap or WeatherStack) to fetch real-time weather data, providing users with accurate forecasts and conditions for their chosen locations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rex10/weather-app"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React"
+            ]
+        },
+        {
+            "title": "Create Job App",
+            "bodyText": "- This application for generating job cards or similar documents.\n - **Form Interface** A form interface for users to input job details such as title, description, requirements.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/rex10/create-job-card"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://create-job-card.netlify.app"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "tailwind"
+            ]
+        },
+        {
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Room",
+                "Coroutines",
+                "Flow",
+                "Hilt-Dagger",
+                "NetworkBoundResource"
+            ]
+        },
+        {
+            "title": "Feed List App",
+            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                }
+            ],
+            "tags" : [
+                "Kotlin",
+                "Android",
+                "MVVM",
+                "Paging 3",
+                "Coroutines",
+                "Flow"
+            ]
+        },
+        {
+            "title": "Task Tracker",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Image Encryption/Decryption",
+            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SDES",
+                "Cryptography"
+            ]
+        }
+    ]
+}
